@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.navbar{
+    width: 100%;
+    padding-left: 30px;
+}
+
+main{
+    min-height: 100vh;
+    width: 100%;
+}
+
+.container{
+    width: 100%;
+}
+
+.form-layout{
+    border-radius: 15px;
+    width: 500px; 
+}
+
+.message-text{
+    color: white;
+}
+
+td{
+    font-size: .75rem;
+    vertical-align: middle;
+}
+#view{
+    text-align: center;
+}
